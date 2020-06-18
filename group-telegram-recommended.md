@@ -294,6 +294,6 @@ description: >-
   * [Leaflet.js Indonesia](https://t.me/leafletid)
 
 {% hint style="info" %}
-Untuk lebih lengkapnya silahkan cek link berikut ini : [https://github.com/hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
+Link tersebut diambil dari akun github milik Mr.Hendi Santika, Untuk lebih lengkapnya silahkan cek link berikut ini : [https://github.com/hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
 {% endhint %}
 
