@@ -79,4 +79,9 @@
     * [React Native – Firebase Data Storage](react-native-mobile-apps-development/step-4-materials/react-native-firebase-data-storage.md)
     * [React Native – Function Component & Hooks](react-native-mobile-apps-development/step-4-materials/react-native-function-component-and-hooks.md)
   * [Step 4 - Assignment](react-native-mobile-apps-development/step-4-assignment.md)
+* [Learning Database](learning-database/README.md)
+  * [Step 1 - Theory](learning-database/step-1-theory/README.md)
+    * [Contoh Penerapan Basis Data](learning-database/step-1-theory/contoh-penerapan-basis-data.md)
+    * [Entity Relationship Diagram \(ERD\)](learning-database/step-1-theory/entity-relationship-diagram-erd.md)
+  * [Step 1 - Assignment](learning-database/step-1-assignment.md)
 
