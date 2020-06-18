@@ -99,7 +99,9 @@
     * [MySQL - Data Retrieval Language \(DRL\)](learning-database/step-3-mysql/mysql-data-retrieval-language-drl.md)
     * [MySQL - Select JOIN](learning-database/step-3-mysql/mysql-select-join.md)
   * [Step 3 - Assignment](learning-database/step-3-assignment.md)
+* [Java Basic](java-basic.md)
 * [Jobs](jobs.md)
 * [Learning Site](learning-site.md)
+* [Editor Online](editor-online.md)
 * [Group Telegram Recommended](group-telegram-recommended.md)
 
