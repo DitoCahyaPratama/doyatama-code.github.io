@@ -5,7 +5,7 @@ description: >-
   dalam diagram E-R secara manual
 ---
 
-# Entity Relationship Diagram \(ERD\)
+# Introduction to Entity Relationship Diagram \(ERD\)
 
 ## Teori
 

@@ -1,2 +1,2 @@
-# Step 1 - Theory
+# Step 1 - Entity Relationship Diagram
 
