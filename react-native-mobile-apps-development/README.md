@@ -1,8 +1,8 @@
 ---
-description: Selamat Datang di channel materi React JS - Web Frontend Development.
+description: Selamat Datang di channel materi React Native - Mobile Apps Development.
 ---
 
-# React Web Frontend Development
+# React Native Mobile Apps Development
 
 ## Introduction
 

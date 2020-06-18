@@ -1,8 +1,8 @@
 ---
-description: Selamat Datang di channel materi React JS - Web Frontend Development.
+description: Selamat Datang di channel materi Laravel - Web Development.
 ---
 
-# React Web Frontend Development
+# Laravel Web Development
 
 ## Introduction
 
