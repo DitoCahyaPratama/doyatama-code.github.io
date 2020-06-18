@@ -6,6 +6,8 @@ description: Selamat Datang di channel Doyatama Code - Fullstack Development.
 
 ## Getting Started
 
+![Doyatama Code](.gitbook/assets/wallpaperdoyatama-blue.jpg)
+
 Adapun bahan - bahan yang dibutuhkan supaya melancarkan pelatihan anda:
 
 ```
