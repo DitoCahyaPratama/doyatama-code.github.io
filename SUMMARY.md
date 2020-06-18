@@ -94,4 +94,6 @@
   * [Step 2 - Assignment](learning-database/step-2-assignment.md)
   * [Step 3 - MySQL](learning-database/step-3-mysql.md)
   * [Step 3 - Assignment](learning-database/step-3-assignment.md)
+* [Jobs](jobs.md)
+* [Group Telegram Recommended](group-telegram-recommended.md)
 
