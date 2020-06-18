@@ -2,6 +2,8 @@
 
 * [Welcome to Doyatama Code](README.md)
 * [Terms and Conditions](terms-and-conditions.md)
+* [Basic Programming](java-basic.md)
+* [Data Structure Algorithm](data-structure-algorithm.md)
 * [React Web Frontend Development](react-bootcamp-day-1/README.md)
   * [Step 1 - Basic Javascript](react-bootcamp-day-1/step-1-materials/README.md)
     * [JavaScript Dasar untuk React – Variable, Object & Scope](react-bootcamp-day-1/step-1-materials/javascript-dasar-untuk-react-variable-object-and-scope.md)
@@ -99,7 +101,6 @@
     * [MySQL - Data Retrieval Language \(DRL\)](learning-database/step-3-mysql/mysql-data-retrieval-language-drl.md)
     * [MySQL - Select JOIN](learning-database/step-3-mysql/mysql-select-join.md)
   * [Step 3 - Assignment](learning-database/step-3-assignment.md)
-* [Java Basic](java-basic.md)
 * [Jobs](jobs.md)
 * [Learning Site](learning-site.md)
 * [Editor Online](editor-online.md)

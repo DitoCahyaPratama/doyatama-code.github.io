@@ -4,6 +4,12 @@ description: Selamat Datang di channel Doyatama Code - Fullstack Development.
 
 # Welcome to Doyatama Code
 
+## About Doyatama Code
+
+![](.gitbook/assets/dito%20%281%29.png)
+
+Perkenalkan Saya Dito Cahya Pratama, saya adalah instruktur anda. Sehingga anda bisa menjadi programmer profesional.
+
 ## Getting Started
 
 ![Doyatama Code](.gitbook/assets/wallpaperdoyatama-blue.jpg)
