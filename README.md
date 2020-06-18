@@ -12,6 +12,7 @@ Adapun bahan - bahan yang dibutuhkan supaya melancarkan pelatihan anda:
 
 ```
 Download Visual Studio Code - https://code.visualstudio.com/
+Download Node JS            - https://nodejs.org/en/
 ```
 
 {% hint style="info" %}
