@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Doyatama Code](README.md)
+* [Terms and Conditions](terms-and-conditions.md)
 * [React Web Frontend Development](react-bootcamp-day-1/README.md)
   * [Step 1 - Basic Javascript](react-bootcamp-day-1/step-1-materials/README.md)
     * [JavaScript Dasar untuk React – Variable, Object & Scope](react-bootcamp-day-1/step-1-materials/javascript-dasar-untuk-react-variable-object-and-scope.md)
@@ -99,5 +100,6 @@
     * [MySQL - Select JOIN](learning-database/step-3-mysql/mysql-select-join.md)
   * [Step 3 - Assignment](learning-database/step-3-assignment.md)
 * [Jobs](jobs.md)
+* [Learning Site](learning-site.md)
 * [Group Telegram Recommended](group-telegram-recommended.md)
 
