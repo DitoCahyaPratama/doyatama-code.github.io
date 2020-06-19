@@ -31,7 +31,7 @@ Kemudian anda pilih Indonesia :\)  Mudah bukan ? `eitssss` tapi, minimal anda te
 
 ### Membaca Dokumentasi <a id="2-membaca-dokumentasi"></a>
 
-Nah, membaca dokumentasi sangatlah sulit. Untuk itu perlu dilakukan latihan setiap harinya supaya terbiasa dengan membaca dokumentas. Mengapa saya bilang bahwa membaca dokumentasi itu sulit ? karena : 
+Nah, membaca dokumentasi sangatlah sulit. Untuk itu perlu dilakukan latihan setiap harinya supaya terbiasa dengan membaca dokumentasi. Mengapa saya bilang bahwa membaca dokumentasi itu sulit ? karena : 
 
 1. Dikemas dengan bahasa teknis yang membosankan untuk dibaca
 2. Screenshot kurang lengkap \(karena pemula butuh screenshot meskipun itu hanya perintah CLI\)
