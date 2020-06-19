@@ -18,9 +18,10 @@ Adapun bahan - bahan yang dibutuhkan supaya melancarkan pelatihan anda:
 
 ```
 Visual Studio Code - https://code.visualstudio.com/
-Node JS            - https://nodejs.org/en/
 Telegram Desktop   - https://desktop.telegram.org/
+Node JS            - https://nodejs.org/en/
 Chrome             - https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwoaz3BRDnARIsAF1RfLdnIVg2JlQmRVi_kLd_7uWlfoSz9uNvcIOZ32Msk0vzWJUSIqaLNGkaAopqEALw_wcB&gclsrc=aw.ds
+Git                - https://git-scm.com/downloads
 ```
 
 {% hint style="info" %}
