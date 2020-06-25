@@ -5,7 +5,7 @@ description: >-
   scope.
 ---
 
-# Assignment - Javascript Dasar untuk React - Variable, Object & Scope
+# Assignment - JavaScript Dasar untuk React - Variable, Object & Scope
 
 Tapi...... jika kalian sudah mempelajarinya yukk .. kalian bisa langsung check assignment nya .... Selamat Mengerjakan :\)
 
