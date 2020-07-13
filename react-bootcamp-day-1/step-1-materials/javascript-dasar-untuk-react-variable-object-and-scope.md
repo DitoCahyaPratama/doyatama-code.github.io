@@ -24,7 +24,7 @@ Pada kali ini kita akan mempelajari mengenai:
 
 Oke langsung saja tidak usah berbicara panjang lebar lagi, teman-teman dapat langsung mengkses materi di link video berikut ini :
 
-[https://www.youtube.com/results?search\_query=doyatama+code](https://www.youtube.com/results?search_query=doyatama+code)
+
 
 source code pada video tersebut dapat teman-teman akses di link github berikut ini : 
 
