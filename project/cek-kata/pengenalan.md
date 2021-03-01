@@ -8,7 +8,7 @@ description: >-
 
 ## Feature
 
-Terdapat beberapa fitur yang akan dibuat pada project ini, diantaranya:Vvalidator
+Terdapat beberapa fitur yang akan dibuat pada project ini, diantaranya:
 
 ```
 Validator
