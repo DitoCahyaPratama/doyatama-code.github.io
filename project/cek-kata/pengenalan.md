@@ -6,6 +6,12 @@ description: >-
 
 # Pengenalan
 
+### Video
+
+{% hint style="success" %}
+[https://youtu.be/C-2ZjYXqbZo](https://youtu.be/C-2ZjYXqbZo)
+{% endhint %}
+
 ## Feature
 
 Terdapat beberapa fitur yang akan dibuat pada project ini, diantaranya:
@@ -49,4 +55,6 @@ Pada teori informasi dan ilmu komputer, Levenshtein Distance merupakan matriks u
 ### MySQL Database
 
 MySQL adalah sistem manajemen database relasional open source \(RDBMS\) dengan client-server model. Sedangkan RDBMS merupakan software untuk membuat dan mengelola database berdasarkan pada model relasional.
+
+
 

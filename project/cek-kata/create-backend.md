@@ -6,6 +6,12 @@ description: >-
 
 # Membuat Backend
 
+### Video
+
+{% hint style="success" %}
+[https://youtu.be/y8WuXKJr3tA](https://youtu.be/y8WuXKJr3tA)
+{% endhint %}
+
 ### Install backend lumen \(micro framework\)
 
 * install : composer create-project --prefer-dist laravel/lumen backend
