@@ -11,6 +11,7 @@
 * [Cek Kata](project/cek-kata/README.md)
   * [Pengenalan](project/cek-kata/pengenalan.md)
   * [Membuat Backend](project/cek-kata/create-backend.md)
+  * [Membuat Frontend](project/cek-kata/membuat-frontend.md)
 
 ## Training
 
